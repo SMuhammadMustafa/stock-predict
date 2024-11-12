@@ -1,5 +1,3 @@
---
-
 # Stock Price Prediction using LSTM and Sentiment Analysis for Pakistan Stock Exchange
 
 This project aims to predict future stock prices for companies listed on the Pakistan Stock Exchange (PSX) by leveraging advanced machine learning techniques, sentiment analysis, and historical stock data. The model uses Long Short-Term Memory (LSTM) networks to analyze time-series data and predict stock trends. Additionally, sentiment analysis of financial news and social media posts is integrated to enhance the prediction accuracy.
@@ -35,5 +33,3 @@ Incorporate more advanced sentiment analysis techniques.
 Add support for other stock exchanges beyond PSX.
 Implement more sophisticated models (e.g., ARIMA, Transformer-based models) for price prediction.
 Improve front-end UI for better interactivity.
-
---
